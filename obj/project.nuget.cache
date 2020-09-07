@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c4G6byvQGIggaZjhJ3Or/7UT5SpqvPraOCeMXn1Q5Uh1F10Z1K+UmlNDqaBrquj2fPmgsniu8uh6yNuJQvzQWw==",
+  "success": true,
+  "projectFilePath": "/Users/aniketdash/Documents/FirstIonideProject/FirstIonideProject.fsproj",
+  "expectedPackageFiles": [
+    "/Users/aniketdash/.nuget/packages/fsharp.core/4.7.2/fsharp.core.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
